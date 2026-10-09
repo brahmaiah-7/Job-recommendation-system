@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JobMatch AI: Smart Job Recommendation & Career Platform
 
 Upload a PDF resume, see which job roles match your skills, which skills you are missing, and a step-by-step learning roadmap.
@@ -53,3 +54,6 @@ Developed by **Tirupatnala** with love.
 
 ## License
 MIT
+=======
+# Job-recommendation-system
+>>>>>>> 4bd902306bc962f4b838838977136c604fd611e5
